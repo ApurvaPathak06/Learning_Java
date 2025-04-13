@@ -11,7 +11,7 @@ public class Lab020_Arithmetic_Operators {
 
         int a=20;
         int b=3;
-        System.out.println(a+b);
+        System.out.println("Addition is:"+(a+b));
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
